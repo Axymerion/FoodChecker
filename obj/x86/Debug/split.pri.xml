@@ -1,0 +1,2880 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="5cf26aab-8990-4792-ae04-d0a4e1e01ec9" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>LIGHTUNPLATED,UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FoodChecker.xr.xml" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/FoodChecker.xr.xml">
+				<Candidate type="Path">
+					<Value>FoodChecker.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Configuration.ConfigurationManager.SR">
+			<NamedResource name="AppSettingsReaderCantParse" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/AppSettingsReaderCantParse">
+				<Candidate type="String">
+					<Value>The value '{0}' was found in the appSettings configuration section for key '{1}', and this value is not a valid {2}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AppSettingsReaderEmptyString" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/AppSettingsReaderEmptyString">
+				<Candidate type="String">
+					<Value>(empty string)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AppSettingsReaderNoKey" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/AppSettingsReaderNoKey">
+				<Candidate type="String">
+					<Value>The key '{0}' does not exist in the appSettings configuration section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_AddingDuplicate" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Argument_AddingDuplicate">
+				<Candidate type="String">
+					<Value>An entry with the same key already exists.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Basicmap_item_name_reserved" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Basicmap_item_name_reserved">
+				<Candidate type="String">
+					<Value>A configuration item cannot have the name '{0}' because it starts with the reserved prefix 'config' or 'lock'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BothScopeAttributes" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/BothScopeAttributes">
+				<Candidate type="String">
+					<Value>The setting {0} has both an ApplicationScopedSettingAttribute and a UserScopedSettingAttribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cannot_change_both_AllowOverride_and_OverrideMode" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Cannot_change_both_AllowOverride_and_OverrideMode">
+				<Candidate type="String">
+					<Value>Changing both AllowOverride and OverrideMode is not supported for compatibility reasons. Please use only one or the other.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cannot_declare_or_remove_implicit_section" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Cannot_declare_or_remove_implicit_section">
+				<Candidate type="String">
+					<Value>The section '{0}' is a built-in section.  It cannot be declared by the user.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CollectionReadOnly" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/CollectionReadOnly">
+				<Candidate type="String">
+					<Value>Collection is read-only.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsectiongroup_already_added" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsectiongroup_already_added">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSectionGroup that already belongs to the Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsectiongroup_already_exists" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsectiongroup_already_exists">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSectionGroup with the same name that already exists.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsectiongroup_in_location_config" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsectiongroup_in_location_config">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSectionGroup to a Configuration with a location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsection_already_added" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsection_already_added">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSection that already belongs to the Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsection_already_exists" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsection_already_exists">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSection with the same name that already exists.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsection_in_location_config" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsection_in_location_config">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSection to a Configuration with a location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_allow_exedefinition_error_application" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_allow_exedefinition_error_application">
+				<Candidate type="String">
+					<Value>It is an error to use a section registered as allowExeDefinition='MachineToApplication' beyond the application, in the user's config.  (This is the default behavior if not specified)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_allow_exedefinition_error_machine" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_allow_exedefinition_error_machine">
+				<Candidate type="String">
+					<Value>It is an error to use a section registered as allowExeDefinition='MachineOnly' beyond machine.config.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_allow_exedefinition_error_roaminguser" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_allow_exedefinition_error_roaminguser">
+				<Candidate type="String">
+					<Value>It is an error to use a section registered as allowExeDefinition='MachineToRoamingUser' beyond the roaming user config, in the local user config.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_appsettings_declaration_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_appsettings_declaration_invalid">
+				<Candidate type="String">
+					<Value>The configuration section 'appSettings' has an unexpected declaration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_attribute_locked" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_attribute_locked">
+				<Candidate type="String">
+					<Value>The attribute '{0}' has been locked in a higher level configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_cannot_add_items_above_inherited_items" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_cannot_add_items_above_inherited_items">
+				<Candidate type="String">
+					<Value>This collection does not permit items to be added in or above the inherited items.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_cannot_add_items_below_inherited_items" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_cannot_add_items_below_inherited_items">
+				<Candidate type="String">
+					<Value>This collection does not permit items to be added in or below the inherited items.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_cannot_remove_inherited_items" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_cannot_remove_inherited_items">
+				<Candidate type="String">
+					<Value>Inherited items may not be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_elements_may_not_be_removed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_elements_may_not_be_removed">
+				<Candidate type="String">
+					<Value>Elements of this collection may not be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_entry_already_exists" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_entry_already_exists">
+				<Candidate type="String">
+					<Value>The entry '{0}' has already been added.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_entry_already_removed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_entry_already_removed">
+				<Candidate type="String">
+					<Value>Entry already removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_entry_not_found" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_entry_not_found">
+				<Candidate type="String">
+					<Value>The entry '{0}' is not in the collection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_item_locked" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_item_locked">
+				<Candidate type="String">
+					<Value>The collection item has been locked in a higher level configuration and may not be changed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_item_locked_cannot_clear" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_item_locked_cannot_clear">
+				<Candidate type="String">
+					<Value>A collection item has been locked in a higher level configuration. The collection may not be cleared.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_elements_only" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_elements_only">
+				<Candidate type="String">
+					<Value>Only elements allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_element_cannot_have_multiple_child_elements" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_element_cannot_have_multiple_child_elements">
+				<Candidate type="String">
+					<Value>The element &lt;{0}&gt; may only appear once in this section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_element_locked" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_element_locked">
+				<Candidate type="String">
+					<Value>The element '{0}' has been locked in a higher level configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_expected_to_find_element" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_expected_to_find_element">
+				<Candidate type="String">
+					<Value>Expected to find an element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_attribute_to_lock" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_attribute_to_lock">
+				<Candidate type="String">
+					<Value>The attribute '{0}' is not valid in the locked list for this section. The following attributes can be locked: {1}. Multiple attributes may be listed separated by commas.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_attribute_to_lock_by_add" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_attribute_to_lock_by_add">
+				<Candidate type="String">
+					<Value>The attribute '{0}' is not valid in the locked list for this section. The following attributes can be locked: {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_element_key" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_element_key">
+				<Candidate type="String">
+					<Value>Invalid key value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_element_to_lock" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_element_to_lock">
+				<Candidate type="String">
+					<Value>The element '{0}' is not valid in the locked list for this section. The following elements can be locked: {1}. Multiple elements may be listed separated by commas.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_element_to_lock_by_add" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_element_to_lock_by_add">
+				<Candidate type="String">
+					<Value>The element '{0}' is not valid in the locked list for this section. The following elements can be locked: {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_no_child_nodes" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_no_child_nodes">
+				<Candidate type="String">
+					<Value>Child nodes not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_property_is_not_a_configuration_element" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_property_is_not_a_configuration_element">
+				<Candidate type="String">
+					<Value>Property '{0}' is not a ConfigurationElement.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_read_only" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_read_only">
+				<Candidate type="String">
+					<Value>The configuration is read only.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_required_attribute_empty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_required_attribute_empty">
+				<Candidate type="String">
+					<Value>Required attribute '{0}' cannot be empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_required_attribute_locked" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_required_attribute_locked">
+				<Candidate type="String">
+					<Value>The attribute '{0}' is required and is locked at a higher level configuration. The configuration with the lock should lock the entire element if it needs to lock required attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_required_attribute_lock_attempt" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_required_attribute_lock_attempt">
+				<Candidate type="String">
+					<Value>The attribute '{0}' is required and cannot be locked. The configuration should lock the entire element if it needs to lock required attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_required_attribute_missing" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_required_attribute_missing">
+				<Candidate type="String">
+					<Value>Required attribute '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_section_invalid_content" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_section_invalid_content">
+				<Candidate type="String">
+					<Value>The configuration section cannot contain a CDATA or text element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_unrecognized_attribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_unrecognized_attribute">
+				<Candidate type="String">
+					<Value>Unrecognized attribute '{0}'. Note that attribute names are case-sensitive.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_unrecognized_element" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_unrecognized_element">
+				<Candidate type="String">
+					<Value>Unrecognized element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_unrecognized_element_name" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_unrecognized_element_name">
+				<Candidate type="String">
+					<Value>Unrecognized element '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_value_cannot_contain" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_value_cannot_contain">
+				<Candidate type="String">
+					<Value>The value may not contain the '{0}' character.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsectiongroup_in_location_config" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsectiongroup_in_location_config">
+				<Candidate type="String">
+					<Value>ConfigurationSectionGroup properties for a &lt;sectionGroup&gt; declaration cannot be edited in a Configuration with a location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsectiongroup_when_not_attached" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsectiongroup_when_not_attached">
+				<Candidate type="String">
+					<Value>ConfigurationSectionGroup cannot be edited before being added to a section group belonging to an instance of class Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_in_location_config" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_in_location_config">
+				<Candidate type="String">
+					<Value>ConfigurationSection properties for a &lt;section&gt; declaration cannot be edited in a Configuration with a location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_parentsection" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_parentsection">
+				<Candidate type="String">
+					<Value>ConfigurationSection properties can not be edited for the parent section of another section (ie. a section retrieved by calling GetParentSection on a section)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_it_is_implicit" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_it_is_implicit">
+				<Candidate type="String">
+					<Value>ConfigurationSection cannot be edited because it is a built-in section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_it_is_undeclared" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_it_is_undeclared">
+				<Candidate type="String">
+					<Value>ConfigurationSection cannot be edited because it is not declared.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_location_locked" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_location_locked">
+				<Candidate type="String">
+					<Value>ConfigurationSection properties for a location section cannot be edited when allowLocation=false.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_locked" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_locked">
+				<Candidate type="String">
+					<Value>ConfigurationSection properties cannot be edited when locked.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_not_attached" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_not_attached">
+				<Candidate type="String">
+					<Value>ConfigurationSection cannot be edited before being added to a section group belonging to an instance of class Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_locationattriubtes" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_locationattriubtes">
+				<Candidate type="String">
+					<Value>AllowOverride and InheritInChildApplications can not be set in the exe configuration, these settings have no meaning there.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_open_config_source" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_open_config_source">
+				<Candidate type="String">
+					<Value>Unable to open configSource file '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_client_config_init_error" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_client_config_init_error">
+				<Candidate type="String">
+					<Value>Configuration system failed to initialize</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_client_config_too_many_configsections_elements" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_client_config_too_many_configsections_elements">
+				<Candidate type="String">
+					<Value>Only one &lt;configSections&gt; element allowed per config file and if present must be the first child of the root &lt;configuration&gt; element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_configmanager_open_noexe" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_configmanager_open_noexe">
+				<Candidate type="String">
+					<Value>exePath must be specified when not running inside a stand alone exe.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_configsection_parentnotvalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_configsection_parentnotvalid">
+				<Candidate type="String">
+					<Value>This is not valid for the parent section of another section (ie. a section retrieved by calling GetParentSection on a section)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_connectionstrings_declaration_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_connectionstrings_declaration_invalid">
+				<Candidate type="String">
+					<Value>The configuration section 'connectionStrings' has an unexpected declaration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_data_read_count_mismatch" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_data_read_count_mismatch">
+				<Candidate type="String">
+					<Value>Data read count is not equal to data available.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_element_locking_not_supported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_element_locking_not_supported">
+				<Candidate type="String">
+					<Value>Locking of elements or attributes within a configuration section is not supported for legacy section '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_element_no_context" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_element_no_context">
+				<Candidate type="String">
+					<Value>This element is not currently associated with any context</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_empty_lock_attributes_except" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_empty_lock_attributes_except">
+				<Candidate type="String">
+					<Value>The '{0}' attribute cannot be an empty string. {1}="*" may be used to lock all attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_empty_lock_element_except" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_empty_lock_element_except">
+				<Candidate type="String">
+					<Value>The '{0}' attribute cannot be an empty string. {1}="*" may be used to lock all elements.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_error_loading_XML_file" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_error_loading_XML_file">
+				<Candidate type="String">
+					<Value>An error occurred loading a configuration file</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_exception_creating_section" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_exception_creating_section">
+				<Candidate type="String">
+					<Value>An error occurred creating the configuration section for {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_exception_creating_section_handler" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_exception_creating_section_handler">
+				<Candidate type="String">
+					<Value>An error occurred creating the configuration section handler for {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_exception_in_config_section_handler" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_exception_in_config_section_handler">
+				<Candidate type="String">
+					<Value>An error occurred executing the configuration section handler for {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_file_doesnt_have_root_configuration" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_file_doesnt_have_root_configuration">
+				<Candidate type="String">
+					<Value>Configuration file {0} does not have root &lt;configuration&gt; tag</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_file_has_changed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_file_has_changed">
+				<Candidate type="String">
+					<Value>The configuration file has been changed by another program.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_getparentconfigurationsection_first_instance" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_getparentconfigurationsection_first_instance">
+				<Candidate type="String">
+					<Value>GetParentSection can only be applied to ConfigurationSections from the first instance of a Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_inconsistent_location_attributes" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_inconsistent_location_attributes">
+				<Candidate type="String">
+					<Value>Error in configuration section "{0}": AllowLocation is false and either AllowOverride or InheritInChildApplications is true.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_invalid_attributes_for_write" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_invalid_attributes_for_write">
+				<Candidate type="String">
+					<Value>Unable to open file '{0}' for writing because it is read-only or hidden.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_invalid_boolean_attribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_invalid_boolean_attribute">
+				<Candidate type="String">
+					<Value>The property '{0}' must have value 'true' or 'false'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_invalid_integer_attribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_invalid_integer_attribute">
+				<Candidate type="String">
+					<Value>The '{0}' attribute must be set to an integer value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_invalid_node_type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_invalid_node_type">
+				<Candidate type="String">
+					<Value>Invalid node type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_location_location_not_allowed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_location_location_not_allowed">
+				<Candidate type="String">
+					<Value>&lt;location&gt; sections are allowed only within &lt;configuration&gt; sections.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_location_path_invalid_character" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_location_path_invalid_character">
+				<Candidate type="String">
+					<Value>&lt;location&gt; path attribute must be a relative virtual path.  It cannot contain any of '?' ':' '\\' '*' '"' '&lt;' '&gt;' or '|'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_location_path_invalid_first_character" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_location_path_invalid_first_character">
+				<Candidate type="String">
+					<Value>&lt;location&gt; path attribute must be a relative virtual path.  It cannot start with any of ' ' '.' '/' or '\\'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_location_path_invalid_last_character" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_location_path_invalid_last_character">
+				<Candidate type="String">
+					<Value>&lt;location&gt; path attribute must be a relative virtual path.  It cannot end with any of ' ' '.' '/' or '\\'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_missing_required_attribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_missing_required_attribute">
+				<Candidate type="String">
+					<Value>The '{0}' attribute must be specified on the '{1}' tag.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_more_data_than_expected" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_more_data_than_expected">
+				<Candidate type="String">
+					<Value>More data than expected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_namespace_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_namespace_invalid">
+				<Candidate type="String">
+					<Value>Namespace of '{0}' on configuration element is invalid, only '{1}' is valid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_name_value_file_section_file_invalid_root" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_name_value_file_section_file_invalid_root">
+				<Candidate type="String">
+					<Value>The root element must match the name of the section referencing the file, '{0}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_not_allowed_to_encrypt_this_section" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_not_allowed_to_encrypt_this_section">
+				<Candidate type="String">
+					<Value>This configuration section cannot be encrypted.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_no_stream_to_write" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_no_stream_to_write">
+				<Candidate type="String">
+					<Value>A configuration file cannot be created for the requested Configuration object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_object_is_null" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_object_is_null">
+				<Candidate type="String">
+					<Value>Configuration section handler returned a null object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_operation_not_runtime" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_operation_not_runtime">
+				<Candidate type="String">
+					<Value>This operation does not apply at runtime.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_properties_may_not_be_derived_from_configuration_section" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_properties_may_not_be_derived_from_configuration_section">
+				<Candidate type="String">
+					<Value>The Configuration property '{0}' may not be derived from ConfigurationSection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_provider_must_implement_type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_provider_must_implement_type">
+				<Candidate type="String">
+					<Value>Provider must implement the class '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_provider_name_null_or_empty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_provider_name_null_or_empty">
+				<Candidate type="String">
+					<Value>Provider name cannot be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_reserved_attribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_reserved_attribute">
+				<Candidate type="String">
+					<Value>The attribute '{0}' cannot be specified because its name starts with the reserved prefix 'config' or 'lock'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_root_section_group_cannot_be_edited" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_root_section_group_cannot_be_edited">
+				<Candidate type="String">
+					<Value>The RootSectionGroup cannot be edited</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_sections_must_be_unique" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_sections_must_be_unique">
+				<Candidate type="String">
+					<Value>Sections must only appear once per config file.  See the help topic &lt;location&gt; for exceptions.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_allow_definition_attribute_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_allow_definition_attribute_invalid">
+				<Candidate type="String">
+					<Value>The 'allowDefinition' attribute must be one of the following values: Everywhere, MachineOnly, MachineToWebRoot, MachineToApplication.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_allow_exe_definition_attribute_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_allow_exe_definition_attribute_invalid">
+				<Candidate type="String">
+					<Value>The 'allowExeDefinition' attribute must be one of the following values: MachineOnly, MachineToApplication, MachineToRoamingUser, MachineToLocalUser.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_cannot_be_used_in_location" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_cannot_be_used_in_location">
+				<Candidate type="String">
+					<Value>This section is not allowed in &lt;location&gt; elements.  This section has been marked allowLocation="false".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_locked" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_locked">
+				<Candidate type="String">
+					<Value>This configuration section cannot be used at this path.  This happens when the site administrator has locked access to this section using &lt;location allowOverride="false"&gt; from an inherited configuration file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_override_mode_attribute_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_override_mode_attribute_invalid">
+				<Candidate type="String">
+					<Value>The 'overrideMode' and 'overrideModeDefault' attributes must be one of the following values: Inherited, Allow, Deny.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_cannot_be_shared" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_cannot_be_shared">
+				<Candidate type="String">
+					<Value>The configSource file '{0}' can only be used by one type of section, and may not be the same as the configuration file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_file_format" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_file_format">
+				<Candidate type="String">
+					<Value>The format of a configSource file must be an element containing the name of the section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_invalid">
+				<Candidate type="String">
+					<Value>The configSource attribute is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_invalid_chars" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_invalid_chars">
+				<Candidate type="String">
+					<Value>The configSource attribute must be a relative physical path, so the '/' character is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_invalid_format" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_invalid_format">
+				<Candidate type="String">
+					<Value>The configSource attribute must be a relative physical path.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_not_under_config_dir" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_not_under_config_dir">
+				<Candidate type="String">
+					<Value>The configSource '{0}' is invalid. It must refer to a file in the same directory or in a subdirectory as the configuration file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_parent_conflict" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_parent_conflict">
+				<Candidate type="String">
+					<Value>The configSource file '{0}' is also used in a parent, this is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_requires_file" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_requires_file">
+				<Candidate type="String">
+					<Value>The 'configSource' property may not be set in a configuration that has no associated file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_syntax_error" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_syntax_error">
+				<Candidate type="String">
+					<Value>A section using 'configSource' may contain no other attributes or elements.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_system_already_set" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_system_already_set">
+				<Candidate type="String">
+					<Value>The configuration system has already been initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_already_defined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_already_defined">
+				<Candidate type="String">
+					<Value>Section or group name '{0}' is already defined. Updates to this may only occur at the configuration level where it is defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_already_defined_at_this_level" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_already_defined_at_this_level">
+				<Candidate type="String">
+					<Value>Section or group name '{0}' is already defined. This can not be defined multiple times.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_cannot_begin_with_config" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_cannot_begin_with_config">
+				<Candidate type="String">
+					<Value>Section names beginning with config are reserved.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_cannot_be_location" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_cannot_be_location">
+				<Candidate type="String">
+					<Value>The section name 'location' is reserved for &lt;location&gt; sections.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_invalid">
+				<Candidate type="String">
+					<Value>Invalid format for a section or section group name</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_type_doesnt_inherit_from_type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_type_doesnt_inherit_from_type">
+				<Candidate type="String">
+					<Value>Type '{0}' does not inherit from '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_unexpected_element_end" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_unexpected_element_end">
+				<Candidate type="String">
+					<Value>Unexpected end of element {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_unexpected_element_name" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_unexpected_element_name">
+				<Candidate type="String">
+					<Value>Unexpected element name {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_unexpected_node_type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_unexpected_node_type">
+				<Candidate type="String">
+					<Value>expected XmlNodeType.Element, type is {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_unrecognized_configuration_section" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_unrecognized_configuration_section">
+				<Candidate type="String">
+					<Value>Unrecognized configuration section {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_write_failed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Config_write_failed">
+				<Candidate type="String">
+					<Value>Unable to save config to file '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Converter_timespan_not_in_second" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Converter_timespan_not_in_second">
+				<Candidate type="String">
+					<Value>The expected format is an integer value in seconds.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Converter_unsupported_value_type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Converter_unsupported_value_type">
+				<Candidate type="String">
+					<Value>The converter cannot convert values with type '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Could_not_create_from_default_value" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Could_not_create_from_default_value">
+				<Candidate type="String">
+					<Value>The property '{0}' could not be created from it's default value. Error message: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Could_not_create_from_default_value_2" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Could_not_create_from_default_value_2">
+				<Candidate type="String">
+					<Value>The property '{0}' could not be created from it's default value because the default value is of a different type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Decryption_failed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Decryption_failed">
+				<Candidate type="String">
+					<Value>Failed to decrypt using provider '{0}'. Error message from the provider: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Default_value_conversion_error_from_string" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Default_value_conversion_error_from_string">
+				<Candidate type="String">
+					<Value>The default value of the property '{0}' cannot be parsed. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Default_value_wrong_type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Default_value_wrong_type">
+				<Candidate type="String">
+					<Value>The default value for the property '{0}' has different type than the one of the property itself.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DPAPI_bad_data" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/DPAPI_bad_data">
+				<Candidate type="String">
+					<Value>The data specified for decryption is bad.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateFileName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/DuplicateFileName">
+				<Candidate type="String">
+					<Value>The file name '{0}' was already in the collection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Empty_attribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Empty_attribute">
+				<Candidate type="String">
+					<Value>The '{0}' attribute cannot be an empty string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EncryptedNode_is_in_invalid_format" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/EncryptedNode_is_in_invalid_format">
+				<Candidate type="String">
+					<Value>The section is marked as being protected, but it does not have the correct format. It should contain only the &lt;EncryptedData&gt; child node.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EncryptedNode_not_found" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/EncryptedNode_not_found">
+				<Candidate type="String">
+					<Value>The section is marked as being protected. However, the &lt;EncryptedData&gt; child node was not found in the section's node. Make sure that the section is correctly encrypted.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Encryption_failed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Encryption_failed">
+				<Candidate type="String">
+					<Value>Failed to encrypt the section '{0}' using provider '{1}'. Error message from the provider: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Filename_in_SaveAs_is_used_already" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Filename_in_SaveAs_is_used_already">
+				<Candidate type="String">
+					<Value>The file name '{0}' is invalid because the same file name is already referenced by the configuration hierarchy you have opened.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IndexOutOfRange" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/IndexOutOfRange">
+				<Candidate type="String">
+					<Value>Index {0} is out of range.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidNullEmptyArgument" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/InvalidNullEmptyArgument">
+				<Candidate type="String">
+					<Value>Argument {0} cannot be null or zero-length.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Invalid_enum_value" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Invalid_enum_value">
+				<Candidate type="String">
+					<Value>The enumeration value must be one of the following: {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Invalid_override_mode_declaration" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Invalid_override_mode_declaration">
+				<Candidate type="String">
+					<Value>A &lt;location&gt; tag may contain only one of the 'allowOverride' or 'overrideMode' attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item_name_reserved" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Item_name_reserved">
+				<Candidate type="String">
+					<Value>A configuration item alias for '{0}' cannot have the name '{1}' because it starts with the reserved prefix 'config' or 'lock'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Location_invalid_inheritInChildApplications_in_machine_or_root_web_config" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Location_invalid_inheritInChildApplications_in_machine_or_root_web_config">
+				<Candidate type="String">
+					<Value>InheritInChildApplications cannot be set to "false" if the location path is referring to machine.config or the root web.config.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Machine_config_file_not_found" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Machine_config_file_not_found">
+				<Candidate type="String">
+					<Value>The machine.config file '{0}' was not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Must_add_to_config_before_protecting_it" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Must_add_to_config_before_protecting_it">
+				<Candidate type="String">
+					<Value>The configuration section must be added to a configuration hierarchy before you can protect it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoScopeAttributes" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/NoScopeAttributes">
+				<Candidate type="String">
+					<Value>The setting {0} does not have either an ApplicationScopedSettingAttribute or UserScopedSettingAttribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="No_converter" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/No_converter">
+				<Candidate type="String">
+					<Value>Unable to find a converter that supports conversion to/from string for the property '{0}' of type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="No_exception_information_available" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/No_exception_information_available">
+				<Candidate type="String">
+					<Value>No information about the exception is available.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObjectDisposed_StreamClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/ObjectDisposed_StreamClosed">
+				<Candidate type="String">
+					<Value>Cannot access a closed Stream.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Parameter_Invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Parameter_Invalid">
+				<Candidate type="String">
+					<Value>The parameter '{0}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Parameter_NullOrEmpty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Parameter_NullOrEmpty">
+				<Candidate type="String">
+					<Value>The string parameter '{0}' cannot be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Property_Invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Property_Invalid">
+				<Candidate type="String">
+					<Value>The value assigned to property '{0}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Property_name_reserved" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Property_name_reserved">
+				<Candidate type="String">
+					<Value>A configuration property cannot have the name '{0}' because it starts with the reserved prefix 'config' or 'lock'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Property_NullOrEmpty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Property_NullOrEmpty">
+				<Candidate type="String">
+					<Value>The value assigned to property '{0}' cannot be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProtectedConfigurationProvider_not_found" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/ProtectedConfigurationProvider_not_found">
+				<Candidate type="String">
+					<Value>The protection provider '{0}' was not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Protection_provider_invalid_format" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Protection_provider_invalid_format">
+				<Candidate type="String">
+					<Value>The configProtectionProvider attribute cannot be an empty string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Protection_provider_syntax_error" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Protection_provider_syntax_error">
+				<Candidate type="String">
+					<Value>A section using 'configProtectionProvider' may contain no other attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProviderInstantiationFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/ProviderInstantiationFailed">
+				<Candidate type="String">
+					<Value>Failed to instantiate provider: {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProviderTypeLoadFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/ProviderTypeLoadFailed">
+				<Candidate type="String">
+					<Value>Failed to load provider type: {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Provider_Already_Initialized" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Provider_Already_Initialized">
+				<Candidate type="String">
+					<Value>This provider instance has already been initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Regex_validator_error" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Regex_validator_error">
+				<Candidate type="String">
+					<Value>The value does not conform to the validation regex string '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsPropertyNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/SettingsPropertyNotFound">
+				<Candidate type="String">
+					<Value>The settings property '{0}' was not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsPropertyReadOnly" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/SettingsPropertyReadOnly">
+				<Candidate type="String">
+					<Value>The settings property '{0}' is read-only.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsPropertyWrongType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/SettingsPropertyWrongType">
+				<Candidate type="String">
+					<Value>The settings property '{0}' is of a non-compatible type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsSaveFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/SettingsSaveFailed">
+				<Candidate type="String">
+					<Value>Failed to save settings: {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsSaveFailedNoSection" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/SettingsSaveFailedNoSection">
+				<Candidate type="String">
+					<Value>Failed to save settings: unable to access the configuration section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="String_null_or_empty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/String_null_or_empty">
+				<Candidate type="String">
+					<Value>The string cannot be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Subclass_validator_error" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Subclass_validator_error">
+				<Candidate type="String">
+					<Value>The type '{0}' must be derived from the type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Top_level_conversion_error_from_string" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Top_level_conversion_error_from_string">
+				<Candidate type="String">
+					<Value>The value of the property '{0}' cannot be parsed. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Top_level_conversion_error_to_string" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Top_level_conversion_error_to_string">
+				<Candidate type="String">
+					<Value>The value of the property '{0}' cannot be converted to string. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Top_level_validation_error" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Top_level_validation_error">
+				<Candidate type="String">
+					<Value>The value for the property '{0}' is not valid. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeNotPublic" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/TypeNotPublic">
+				<Candidate type="String">
+					<Value>Unable to load type '{0}' because it is not public.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Type_cannot_be_resolved" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Type_cannot_be_resolved">
+				<Candidate type="String">
+					<Value>The type '{0}' cannot be resolved. Please verify the spelling is correct or that the full type name is provided.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Unable_to_convert_type_from_string" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Unable_to_convert_type_from_string">
+				<Candidate type="String">
+					<Value>Could not find a type-converter to convert object if type '{0}' from string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Unable_to_convert_type_to_string" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Unable_to_convert_type_to_string">
+				<Candidate type="String">
+					<Value>Could not find a type-converter to convert object if type '{0}' to string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Unexpected_Error" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Unexpected_Error">
+				<Candidate type="String">
+					<Value>An unexpected error occurred in '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownUserLevel" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/UnknownUserLevel">
+				<Candidate type="String">
+					<Value>Unknown ConfigurationUserLevel specified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Unrecognized_initialization_value" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Unrecognized_initialization_value">
+				<Candidate type="String">
+					<Value>The configuration setting '{0}' was not recognized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UserSettingsNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/UserSettingsNotSupported">
+				<Candidate type="String">
+					<Value>The current configuration system does not support user-scoped settings.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validation_scalar_range_violation_not_different" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validation_scalar_range_violation_not_different">
+				<Candidate type="String">
+					<Value>The value must be different than {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validation_scalar_range_violation_not_equal" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validation_scalar_range_violation_not_equal">
+				<Candidate type="String">
+					<Value>The value must be equal to {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validation_scalar_range_violation_not_in_range" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validation_scalar_range_violation_not_in_range">
+				<Candidate type="String">
+					<Value>The value must be inside the range {0}-{1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validation_scalar_range_violation_not_outside_range" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validation_scalar_range_violation_not_outside_range">
+				<Candidate type="String">
+					<Value>The value must not be in the range {0}-{1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_Attribute_param_not_validator" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_Attribute_param_not_validator">
+				<Candidate type="String">
+					<Value>Only types derived from {0} are valid validator types.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_does_not_support_elem_type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_does_not_support_elem_type">
+				<Candidate type="String">
+					<Value>The supplied validator does not support validating the configuration element type {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_does_not_support_prop_type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_does_not_support_prop_type">
+				<Candidate type="String">
+					<Value>The supplied validator does not support the type of the property '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_element_not_valid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_element_not_valid">
+				<Candidate type="String">
+					<Value>The configuration element '{0}' is not valid. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_method_not_found" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_method_not_found">
+				<Candidate type="String">
+					<Value>The supplied method name '{0}' was not found. The callback method must be a public static void method with one object parameter.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_min_greater_than_max" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_min_greater_than_max">
+				<Candidate type="String">
+					<Value>The upper range limit value must be greater than the lower range limit value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_multiple_validator_attributes" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_multiple_validator_attributes">
+				<Candidate type="String">
+					<Value>Multiple validator attributes are not currently supported. The property '{0}' has more than one validator attribute associated with it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_scalar_resolution_violation" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_scalar_resolution_violation">
+				<Candidate type="String">
+					<Value>The value must have a resolution of {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_string_invalid_chars" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_string_invalid_chars">
+				<Candidate type="String">
+					<Value>The string cannot contain any of the following characters: '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_string_max_length" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_string_max_length">
+				<Candidate type="String">
+					<Value>The string must be no more than {0} characters long.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_string_min_length" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_string_min_length">
+				<Candidate type="String">
+					<Value>The string must be at least {0} characters long.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_timespan_value_must_be_positive" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_timespan_value_must_be_positive">
+				<Candidate type="String">
+					<Value>The time span value must be positive.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_value_type_invalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Validator_value_type_invalid">
+				<Candidate type="String">
+					<Value>The supplied value is not of type which the validator can process.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Wrapped_exception_message" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/Wrapped_exception_message">
+				<Candidate type="String">
+					<Value>{0}: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WrongType_of_Protected_provider" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Configuration.ConfigurationManager.SR/WrongType_of_Protected_provider">
+				<Candidate type="String">
+					<Value>The type specified does not extend ProtectedConfigurationProvider class.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Resources.Extensions.SR">
+			<NamedResource name="ArgumentOutOfRange_StreamLength" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/ArgumentOutOfRange_StreamLength">
+				<Candidate type="String">
+					<Value>Stream length must be non-negative and less than 2^31 - 1 - origin.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_StreamNotReadable" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/Argument_StreamNotReadable">
+				<Candidate type="String">
+					<Value>Stream was not readable</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_StreamNotWritable" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/Argument_StreamNotWritable">
+				<Candidate type="String">
+					<Value>Stream was not writable.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_ResourceFileUnsupportedVersion" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/Arg_ResourceFileUnsupportedVersion">
+				<Candidate type="String">
+					<Value>The ResourceReader class does not know how to read this version of .resources files. Expected version: {0}  This file: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_InvalidType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_InvalidType">
+				<Candidate type="String">
+					<Value>Corrupt .resources file.  The specified type doesn't exist.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_NegativeStringLength" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_NegativeStringLength">
+				<Candidate type="String">
+					<Value>Corrupt .resources file. String length must be non-negative.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResourceDataLengthInvalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResourceDataLengthInvalid">
+				<Candidate type="String">
+					<Value>Corrupt .resources file.  The specified data length '{0}' is not a valid position in the stream.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResourceNameCorrupted" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResourceNameCorrupted">
+				<Candidate type="String">
+					<Value>Corrupt .resources file. A resource name extends past the end of the stream.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResourceNameCorrupted_NameIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResourceNameCorrupted_NameIndex">
+				<Candidate type="String">
+					<Value>Corrupt .resources file. The resource name for name index {0} extends past the end of the stream.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResourcesDataInvalidOffset" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResourcesDataInvalidOffset">
+				<Candidate type="String">
+					<Value>Corrupt .resources file. Invalid offset '{0}' into data section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResourcesHeaderCorrupted" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResourcesHeaderCorrupted">
+				<Candidate type="String">
+					<Value>Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResourcesIndexTooLong" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResourcesIndexTooLong">
+				<Candidate type="String">
+					<Value>Corrupt .resources file. String for name index '{0}' extends past the end of the file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResourcesNameInvalidOffset" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResourcesNameInvalidOffset">
+				<Candidate type="String">
+					<Value>Corrupt .resources file. Invalid offset '{0}' into name section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResourcesNameTooLong" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResourcesNameTooLong">
+				<Candidate type="String">
+					<Value>Corrupt .resources file. Resource name extends past the end of the file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_ResType_SerBlobMismatch" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_ResType_SerBlobMismatch">
+				<Candidate type="String">
+					<Value>The type serialized in the .resources file was not the same type that the .resources file said it contained. Expected '{0}' but read '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadImageFormat_TypeMismatch" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/BadImageFormat_TypeMismatch">
+				<Candidate type="String">
+					<Value>Corrupt .resources file.  The specified type doesn't match the available data in the stream.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Format_Bad7BitInt32" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/Format_Bad7BitInt32">
+				<Candidate type="String">
+					<Value>Too many bytes in what should have been a 7 bit encoded Int32.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOperation_EnumEnded" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/InvalidOperation_EnumEnded">
+				<Candidate type="String">
+					<Value>Enumeration already finished.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOperation_EnumNotStarted" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/InvalidOperation_EnumNotStarted">
+				<Candidate type="String">
+					<Value>Enumeration has not started. Call MoveNext.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOperation_ResourceNotString_Type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/InvalidOperation_ResourceNotString_Type">
+				<Candidate type="String">
+					<Value>Resource was of type '{0}' instead of String - call GetObject instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOperation_ResourceWriterSaved" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/InvalidOperation_ResourceWriterSaved">
+				<Candidate type="String">
+					<Value>The resource writer has already been closed and cannot be edited.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotSupported_BinarySerializedResources" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/NotSupported_BinarySerializedResources">
+				<Candidate type="String">
+					<Value>This platform does not support binary serialized resources.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotSupported_ResourceObjectSerialization" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/NotSupported_ResourceObjectSerialization">
+				<Candidate type="String">
+					<Value>Cannot read resources that depend on serialization.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotSupported_UnseekableStream" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/NotSupported_UnseekableStream">
+				<Candidate type="String">
+					<Value>Stream does not support seeking.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotSupported_WrongResourceReader_Type" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/NotSupported_WrongResourceReader_Type">
+				<Candidate type="String">
+					<Value>This .resources file should not be read with this reader. The resource reader type is "{0}".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObjectDisposed_ResourceSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/ObjectDisposed_ResourceSet">
+				<Candidate type="String">
+					<Value>Cannot access a closed resource set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResourceReaderIsClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/ResourceReaderIsClosed">
+				<Candidate type="String">
+					<Value>ResourceReader is closed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Resources_StreamNotValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/Resources_StreamNotValid">
+				<Candidate type="String">
+					<Value>Stream is not a valid resource file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeLoadException_CannotLoadConverter" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Resources.Extensions.SR/TypeLoadException_CannotLoadConverter">
+				<Candidate type="String">
+					<Value>Could not load a converter for type {0}.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Security.Cryptography.ProtectedData.SR">
+			<NamedResource name="Cryptography_DpApi_ProfileMayNotBeLoaded" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Security.Cryptography.ProtectedData.SR/Cryptography_DpApi_ProfileMayNotBeLoaded">
+				<Candidate type="String">
+					<Value>The data protection operation was unsuccessful. This may have been caused by not having the user profile loaded for the current thread's user context, which may be the case when the thread is impersonating.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PlatformNotSupported_CryptographyProtectedData" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Security.Cryptography.ProtectedData.SR/PlatformNotSupported_CryptographyProtectedData">
+				<Candidate type="String">
+					<Value>Windows Data Protection API (DPAPI) is not supported on this platform.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Xml.XPath.XmlDocument.SR">
+			<NamedResource name="Xdom_Node_Modify_ReadOnly" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xdom_Node_Modify_ReadOnly">
+				<Candidate type="String">
+					<Value>This node is read-only. It cannot be modified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_BadFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_BadFormat">
+				<Candidate type="String">
+					<Value>The string '{0}' is not a valid {1} value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_BadUri" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_BadUri">
+				<Candidate type="String">
+					<Value>The string was not recognized as a valid Uri.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_NotOneCharString" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_NotOneCharString">
+				<Candidate type="String">
+					<Value>String must be exactly one character long.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_Overflow" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_Overflow">
+				<Candidate type="String">
+					<Value>Value '{0}' was either too large or too small for {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeBadMapping" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeBadMapping">
+				<Candidate type="String">
+					<Value>Xml type '{0}' does not support Clr type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeBadMapping2" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeBadMapping2">
+				<Candidate type="String">
+					<Value>Xml type '{0}' does not support a conversion from Clr type '{1}' to Clr type '{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeFromString" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeFromString">
+				<Candidate type="String">
+					<Value>Xml type '{0}' cannot convert to Clr type '{1}' unless the source value is a String or an XmlAtomicValue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeListBadMapping" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeListBadMapping">
+				<Candidate type="String">
+					<Value>Xml type 'List of {0}' does not support Clr type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeListBadMapping2" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeListBadMapping2">
+				<Candidate type="String">
+					<Value>Xml type 'List of {0}' does not support a conversion from Clr type '{1}' to Clr type '{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeNoNamespace" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeNoNamespace">
+				<Candidate type="String">
+					<Value>The String '{0}' cannot be represented as an XmlQualifiedName.  A namespace for prefix '{1}' cannot be found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeNoPrefix" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeNoPrefix">
+				<Candidate type="String">
+					<Value>The QName '{0}' cannot be represented as a String.  A prefix for namespace '{1}' cannot be found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeToString" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeToString">
+				<Candidate type="String">
+					<Value>Xml type '{0}' cannot convert from Clr type '{1}' unless the destination type is String or XmlAtomicValue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_BadNameChar" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_BadNameChar">
+				<Candidate type="String">
+					<Value>The '{0}' character, hexadecimal value {1}, cannot be included in a name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_BadStartNameChar" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_BadStartNameChar">
+				<Candidate type="String">
+					<Value>Name cannot begin with the '{0}' character, hexadecimal value {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_CanNotBindToReservedNamespace" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_CanNotBindToReservedNamespace">
+				<Candidate type="String">
+					<Value>Cannot bind to the reserved namespace.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_CannotStartDocumentOnFragment" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_CannotStartDocumentOnFragment">
+				<Candidate type="String">
+					<Value>WriteStartDocument cannot be called on writers created with ConformanceLevel.Fragment.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_CannotWriteXmlDecl" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_CannotWriteXmlDecl">
+				<Candidate type="String">
+					<Value>Cannot write XML declaration. XML declaration can be only at the beginning of the document.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_ClosedOrError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_ClosedOrError">
+				<Candidate type="String">
+					<Value>The Writer is closed or in error state.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_ConformanceLevelFragment" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_ConformanceLevelFragment">
+				<Candidate type="String">
+					<Value>Make sure that the ConformanceLevel setting is set to ConformanceLevel.Fragment or ConformanceLevel.Auto if you want to write an XML fragment.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_DtdAlreadyWritten" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_DtdAlreadyWritten">
+				<Candidate type="String">
+					<Value>The DTD has already been written out.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_DtdNotAllowedInFragment" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_DtdNotAllowedInFragment">
+				<Candidate type="String">
+					<Value>DTD is not allowed in XML fragments.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_DupAttributeName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_DupAttributeName">
+				<Candidate type="String">
+					<Value>'{0}' is a duplicate attribute name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_DupXmlDecl" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_DupXmlDecl">
+				<Candidate type="String">
+					<Value>Cannot write XML declaration. WriteStartDocument method has already written it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_EmptyLocalName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_EmptyLocalName">
+				<Candidate type="String">
+					<Value>The empty string '' is not a valid local name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_EmptyName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_EmptyName">
+				<Candidate type="String">
+					<Value>The empty string '' is not a valid name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_ErrorPosition" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_ErrorPosition">
+				<Candidate type="String">
+					<Value>Line {0}, position {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidCharacter" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidCharacter">
+				<Candidate type="String">
+					<Value>'{0}', hexadecimal value {1}, is an invalid character.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidNameCharsDetail" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidNameCharsDetail">
+				<Candidate type="String">
+					<Value>Invalid name character in '{0}'. The '{1}' character, hexadecimal value {2}, cannot be included in a name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidOperation" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidOperation">
+				<Candidate type="String">
+					<Value>Operation is not valid due to the current state of the object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidReadContentAs" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidReadContentAs">
+				<Candidate type="String">
+					<Value>The {0} method is not supported on node type {1}. If you want to read typed content of an element, use the ReadElementContentAs method.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidReadElementContentAs" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidReadElementContentAs">
+				<Candidate type="String">
+					<Value>The {0} method is not supported on node type {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidSurrogateHighChar" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidSurrogateHighChar">
+				<Candidate type="String">
+					<Value>Invalid high surrogate character (0x{0}). A high surrogate character must have a value from range (0xD800 - 0xDBFF).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidSurrogateMissingLowChar" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidSurrogateMissingLowChar">
+				<Candidate type="String">
+					<Value>The surrogate pair is invalid. Missing a low surrogate character.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidSurrogatePairWithArgs" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidSurrogatePairWithArgs">
+				<Candidate type="String">
+					<Value>The surrogate pair (0x{0}, 0x{1}) is invalid. A high surrogate character (0xD800 - 0xDBFF) must always be paired with a low surrogate character (0xDC00 - 0xDFFF).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidXmlSpace" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidXmlSpace">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid xml:space value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_NamespaceDeclXmlXmlns" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_NamespaceDeclXmlXmlns">
+				<Candidate type="String">
+					<Value>Prefix '{0}' cannot be mapped to namespace name reserved for \"xml\" or \"xmlns\".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_NonWhitespace" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_NonWhitespace">
+				<Candidate type="String">
+					<Value>Only white space characters should be used.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_NoRoot" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_NoRoot">
+				<Candidate type="String">
+					<Value>Document does not have a root element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_NoStartTag" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_NoStartTag">
+				<Candidate type="String">
+					<Value>There was no XML start tag open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_PrefixForEmptyNs" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_PrefixForEmptyNs">
+				<Candidate type="String">
+					<Value>Cannot use a prefix with an empty namespace.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_RedefinePrefix" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_RedefinePrefix">
+				<Candidate type="String">
+					<Value>The prefix '{0}' cannot be redefined from '{1}' to '{2}' within the same start element tag.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_UndefNamespace" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_UndefNamespace">
+				<Candidate type="String">
+					<Value>The '{0}' namespace is not defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_WrongToken" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_WrongToken">
+				<Candidate type="String">
+					<Value>Token {0} in state {1} would result in an invalid XML document.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_XmlnsPrefix" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_XmlnsPrefix">
+				<Candidate type="String">
+					<Value>Prefix \"xmlns\" is reserved for use by XML.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_XmlPrefix" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_XmlPrefix">
+				<Candidate type="String">
+					<Value>Prefix \"xml\" is reserved for use by XML and can be mapped only to namespace name \"http://www.w3.org/XML/1998/namespace\".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xpn_BadPosition" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xpn_BadPosition">
+				<Candidate type="String">
+					<Value>Operation is not valid due to the current position of the navigator.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xpn_MissingParent" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xpn_MissingParent">
+				<Candidate type="String">
+					<Value>The current position of the navigator is missing a valid parent.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xpn_NoContent" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/FxResources.System.Xml.XPath.XmlDocument.SR/Xpn_NoContent">
+				<Candidate type="String">
+					<Value>No content generated as the result of the operation.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MySql.Data.Resources">
+			<NamedResource name="AdapterIsNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AdapterIsNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Improper MySqlCommandBuilder state: adapter is null</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AdapterSelectIsNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AdapterSelectIsNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Improper MySqlCommandBuilder state: adapter's SelectCommand is null</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AttemptToAccessBeforeRead" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AttemptToAccessBeforeRead">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to access a field before calling Read()</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AuthenticationFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AuthenticationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication to host '{0}' for user '{1}' using method '{2}' failed with message: {3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AuthenticationMethodNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AuthenticationMethodNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication method '{0}' not supported by any of the available plugins.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadVersionFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/BadVersionFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Version string not in acceptable format</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BufferCannotBeNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/BufferCannotBeNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> The buffer cannot be null</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BufferNotLargeEnough" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/BufferNotLargeEnough">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> Buffer is not large enough</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CancelNeeds50" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CancelNeeds50">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Canceling an executing query requires MySQL 5.0 or higher.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CancelNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CancelNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Canceling an active query is only supported on MySQL 5.0.0 and above. </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CanNotDeriveParametersForTextCommands" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CanNotDeriveParametersForTextCommands">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameters can only be derived for commands using the StoredProcedure command type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CBMultiTableNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CBMultiTableNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>MySqlCommandBuilder does not support multi-table statements</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CBNoKeyColumn" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CBNoKeyColumn">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>MySqlCommandBuilder cannot operate on tables with no unique or key columns</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ChaosNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ChaosNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Chaos isolation level is not supported </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CommandTextNotInitialized" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CommandTextNotInitialized">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The CommandText property has not been properly initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CompressionNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CompressionNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Compression is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionAlreadyOpen" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionAlreadyOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection is already open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionBroken" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionBroken">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection unexpectedly terminated.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionMustBeOpen" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionMustBeOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection must be valid and open</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionNotOpen" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionNotOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection is not open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionNotSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection property has not been set or is null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CouldNotFindColumnName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CouldNotFindColumnName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not find specified column in results: {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CountCannotBeNegative" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CountCannotBeNegative">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> Count cannot be negative</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CSNoSetLength" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CSNoSetLength">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SetLength is not a valid operation on CompressedStream</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataNotInSupportedFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DataNotInSupportedFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The given value was not in a supported format.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataReaderOpen" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DataReaderOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There is already an open DataReader associated with this Connection which must be closed first.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefaultEncodingNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DefaultEncodingNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The default connection encoding was not found. Please report this as a bug along with your connection string and system details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DistributedTxnNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DistributedTxnNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>MySQL Connector/NET does not currently support distributed transactions.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicatedSslConnectionOption" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DuplicatedSslConnectionOption">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SSL connection option '{0}' is duplicated.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EncodingError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/EncodingError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Encoding error during validation.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ErrorCreatingSocket" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ErrorCreatingSocket">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Error creating socket connection</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FatalErrorDuringExecute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FatalErrorDuringExecute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Fatal error encountered during command execution.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FatalErrorDuringRead" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FatalErrorDuringRead">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Fatal error encountered during data read.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FatalErrorReadingResult" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FatalErrorReadingResult">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Fatal error encountered attempting to read the resultset.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FileBasedCertificateNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FileBasedCertificateNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>File based certificates are only supported when connecting to MySQL Server 5.1 or greater.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FileIsNotACertificate" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FileIsNotACertificate">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified file cannot be converted to a certificate.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FileIsNotAKey" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FileIsNotAKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified file cannot be converted to a key.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FileNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FileNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to read file at the specified location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FilePathNotSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FilePathNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No file path has been provided for the connection option {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FromAndLengthTooBig" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FromAndLengthTooBig">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>From index and length use more bytes than from contains</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FromIndexMustBeValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FromIndexMustBeValid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>From index must be a valid index inside the from buffer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GetHostEntryFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/GetHostEntryFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Call to GetHostEntry failed after {0} while querying for hostname '{1}': SocketErrorCode={2}, ErrorCode={3}, NativeErrorCode={4}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HardProcQuery" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/HardProcQuery">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Retrieving procedure metadata for {0} from server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ImproperValueFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ImproperValueFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value has an unsupported format.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IncorrectTransmission" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/IncorrectTransmission">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An incorrect response was received from the server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IndexAndLengthTooBig" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/IndexAndLengthTooBig">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Index and length use more bytes than to has room for</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IndexMustBeValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/IndexMustBeValid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Index must be a valid position in the buffer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCertificateKey" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidCertificateKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The provided key is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidColumnOrdinal" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidColumnOrdinal">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You have specified an invalid column ordinal.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionStringValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidConnectionStringValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The requested value '{0}' is invalid for the given keyword '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidHostNameOrAddress" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidHostNameOrAddress">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The host name or IP address is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidMicrosecondValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidMicrosecondValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Microsecond must be a value between 0 and 999999.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidMillisecondValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidMillisecondValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Millisecond must be a value between 0 and 999. For more precision use Microsecond.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOptionWhenSslDisabled" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidOptionWhenSslDisabled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No other SSL options are accepted when SSL Mode is set to None.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidProcName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidProcName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Procedure or function '{0}' cannot be found in database '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSslCertificate" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidSslCertificate">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The certificate is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSslCertificateSignature" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidSslCertificateSignature">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to validate the signature.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSslCertificateSignatureGeneral" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidSslCertificateSignatureGeneral">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to verify the signature.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSslMode" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidSslMode">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value '{0}' is not of the correct type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidValueForBoolean" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidValueForBoolean">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' is an illegal value for a boolean option.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNoNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/KeywordNoNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Keyword does not allow null values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/KeywordNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Option not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="keywords" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/keywords">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ACCESSIBLE
+ADD
+ALL
+ALTER
+ANALYZE
+AND
+AS
+ASC
+ASENSITIVE
+BEFORE
+BEGIN
+BETWEEN
+BIGINT
+BINARY
+BLOB
+BOTH
+BY
+CALL
+CASCADE
+CASE
+CHANGE
+CHAR
+CHARACTER
+CHECK
+COLLATE
+COLUMN
+COMMIT
+CONDITION
+CONNECTION
+CONSTRAINT
+CONTINUE
+CONVERT
+CREATE
+CROSS
+CURRENT_DATE
+CURRENT_TIME
+CURRENT_TIMESTAMP
+CURRENT_USER
+CURSOR
+DATABASE
+DATABASES
+DAY_HOUR
+DAY_MICROSECOND
+DAY_MINUTE
+DAY_SECOND
+DEC
+DECIMAL
+DECLARE
+DEFAULT
+DELAYED
+DELETE
+DESC
+DESCRIBE
+DETERMINISTIC
+DISTINCT
+DISTINCTROW
+DIV
+DO
+DOUBLE
+DROP
+DUAL
+EACH
+ELSE
+ELSEIF
+ENCLOSED
+END
+ESCAPED
+EXISTS
+EXIT
+EXPLAIN
+FALSE
+FETCH
+FLOAT
+FLOAT4
+FLOAT8
+FOR
+FORCE
+FOREIGN
+FROM
+FULLTEXT
+GOTO
+GRANT
+GROUP
+HAVING
+HIGH_PRIORITY
+HOUR_MICROSECOND
+HOUR_MINUTE
+HOUR_SECOND
+IF
+IGNORE
+IN
+INDEX
+INFILE
+INNER
+INOUT
+INSENSITIVE
+INSERT
+INT
+INT1
+INT2
+INT3
+INT4
+INT8
+INTEGER
+INTERVAL
+INTO
+IS
+ITERATE
+JOIN
+KEY
+KEYS
+KILL
+LABEL
+LEADING
+LEAVE
+LEFT
+LIKE
+LIMIT
+LINEAR
+LINES
+LOAD
+LOCALTIME
+LOCALTIMESTAMP
+LOCK
+LONG
+LONGBLOB
+LONGTEXT
+LOOP
+LOW_PRIORITY
+MASTER_SSL_VERIFY_SERVER_CERT
+MATCH
+MEDIUMBLOB
+MEDIUMINT
+MEDIUMTEXT
+MIDDLEINT
+MINUTE_MICROSECOND
+MINUTE_SECOND
+MOD
+MODIFIES
+NATURAL
+NOT
+NO_WRITE_TO_BINLOG
+NULL
+NUMERIC
+ON
+OPTIMIZE
+OPTION
+OPTIONALLY
+OR
+ORDER
+OUT
+OUTER
+OUTFILE
+PRECISION
+PRIMARY
+PROCEDURE
+PURGE
+RANGE
+READ
+READS
+READ_ONLY
+READ_WRITE
+REAL
+REFERENCES
+REGEXP
+RELEASE
+RENAME
+REPEAT
+REPLACE
+REQUIRE
+RESTRICT
+RETURN
+REVOKE
+RIGHT
+RLIKE
+ROLLBACK
+SCHEMA
+SCHEMAS
+SECOND_MICROSECOND
+SELECT
+SENSITIVE
+SEPARATOR
+SET
+SHOW
+SHUTDOWN
+SMALLINT
+SPATIAL
+SPECIFIC
+SQL
+SQLEXCEPTION
+SQLSTATE
+SQLWARNING
+SQL_BIG_RESULT
+SQL_CALC_FOUND_ROWS
+SQL_SMALL_RESULT
+SSL
+STARTING
+STRAIGHT_JOIN
+TABLE
+TERMINATED
+THEN
+TINYBLOB
+TINYINT
+TINYTEXT
+TO
+TRAILING
+TRIGGER
+TRUE
+UNDO
+UNION
+UNIQUE
+UNLOCK
+UNSIGNED
+UPDATE
+UPGRADE
+USAGE
+USE
+USING
+UTC_DATE
+UTC_TIME
+UTC_TIMESTAMP
+VALUE
+VALUES
+VARBINARY
+VARCHAR
+VARCHARACTER
+VARYING
+WHEN
+WHERE
+WHILE
+WITH
+WRITE
+XOR
+YEAR_MONTH
+ZEROFILL</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LocalInfileDisabled" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/LocalInfileDisabled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Server asked for stream in response to LOAD DATA LOCAL INFILE, but the functionality is disabled by the client setting 'allowlocalinfile' to 'false'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MixedParameterNamingNotAllowed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/MixedParameterNamingNotAllowed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Mixing named and unnamed parameters is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MoreThanOneOPRow" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/MoreThanOneOPRow">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>INTERNAL ERROR:  More than one output parameter row detected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleConnectionsInTransactionNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/MultipleConnectionsInTransactionNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Multiple simultaneous connections or connections with different connection strings inside the same transaction are not currently supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NamedPipeNoSeek" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NamedPipeNoSeek">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>NamedPipeStream does not support seeking</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NamedPipeNoSetLength" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NamedPipeNoSetLength">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>NamedPipeStream doesn't support SetLength</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NewValueShouldBeMySqlParameter" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NewValueShouldBeMySqlParameter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The new value must be a MySqlParameter object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NextResultIsClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NextResultIsClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to call NextResult when the reader is closed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoBodiesAndTypeNotSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoBodiesAndTypeNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>When calling stored procedures and 'Use Procedure Bodies' is false, all parameters must have their type explicitly set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoNestedTransactions" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoNestedTransactions">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Nested transactions are not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoServerSSLSupport" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoServerSSLSupport">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The host {0} does not support SSL connections.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoUnixSocketsOnWindows" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoUnixSocketsOnWindows">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unix sockets are not supported on Windows.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoWindowsIdentity" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoWindowsIdentity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot retrieve Windows identity for current user. Connections that use  IntegratedSecurity cannot be  pooled. Use either 'ConnectionReset=true' or  'Pooling=false' in the connection string to fix.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObjectDisposed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ObjectDisposed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The object is not open or has been disposed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OffsetCannotBeNegative" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/OffsetCannotBeNegative">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> Offset cannot be negative</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OffsetMustBeValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/OffsetMustBeValid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Offset must be a valid position in buffer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OldPasswordsNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/OldPasswordsNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication with old password no longer supported, use 4.1 style passwords.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OptionNotCurrentlySupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/OptionNotCurrentlySupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The option '{0}' is not currently supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterAlreadyDefined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterAlreadyDefined">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' has already been defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterCannotBeNegative" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterCannotBeNegative">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter cannot have a negative value</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterCannotBeNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterCannotBeNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter cannot be null</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterCannotBeNullOrEmpty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterCannotBeNullOrEmpty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' can't be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterIndexNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterIndexNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter index was not found in Parameter Collection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterIsInvalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterIsInvalid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterMustBeDefined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterMustBeDefined">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' must be defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterNotFoundDuringPrepare" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterNotFoundDuringPrepare">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' was not found during prepare.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterNullOrEmpty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter can't be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PasswordMustHaveLegalChars" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PasswordMustHaveLegalChars">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Password must be valid and contain length characters</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonCategoryHelp" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonCategoryHelp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This category includes a series of counters for MySQL</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonCategoryName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonCategoryName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>.NET Data Provider for MySQL</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonHardProcHelp" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonHardProcHelp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The number of times a procedures metadata had to be queried from the server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonHardProcName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonHardProcName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Hard Procedure Queries</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonSoftProcHelp" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonSoftProcHelp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The number of times a procedures metadata was retrieved from the client-side cache.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonSoftProcName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonSoftProcName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Soft Procedure Queries</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProcAndFuncSameName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ProcAndFuncSameName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>same name are not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="QueryTooLarge" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/QueryTooLarge">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Packets larger than max_allowed_packet are not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReadFromStreamFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReadFromStreamFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Reading from the stream has failed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReadingPriorColumnUsingSeqAccess" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReadingPriorColumnUsingSeqAccess">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to read a prior column using SequentialAccess</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReplicatedConnectionsAllowOnlyReadonlyStatements" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReplicatedConnectionsAllowOnlyReadonlyStatements">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Replicated connections allow only readonly statements.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReplicationGroupNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReplicationGroupNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Replication group '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReplicationServerNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReplicationServerNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Replicated server not found: '{0}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Replication_ConnectionAttemptFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/Replication_ConnectionAttemptFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Attempt to connect to '{0}' server failed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Replication_NoAvailableServer" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/Replication_NoAvailableServer">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No available server found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RoutineNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/RoutineNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Routine '{0}' cannot be found. Either check the spelling or make sure you have sufficient rights to execute the routine.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RoutineRequiresReturnParameter" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/RoutineRequiresReturnParameter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Attempt to call stored function '{0}' without specifying a return parameter</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RSAPublicKeyRetrievalNotEnabled" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/RSAPublicKeyRetrievalNotEnabled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Retrieval of the RSA public key is not enabled for insecure connections.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ServerTooOld" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ServerTooOld">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connector/NET no longer supports server versions prior to 5.0</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SnapshotNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SnapshotNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Snapshot isolation level is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SocketNoSeek" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SocketNoSeek">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Socket streams do not support seeking</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SoftProcQuery" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SoftProcQuery">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Retrieving procedure metadata for {0} from procedure cache.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SPNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SPNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Stored procedures are not supported on this version of MySQL</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SshAuthenticationModeNotSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SshAuthenticationModeNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The SSH Key File and/or SSH Password must be provided.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SshInvalidPassphrase" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SshInvalidPassphrase">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The provided passphrase is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SslCertificateCAMismatch" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SslCertificateCAMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The certificate authority (CA) does not match.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SslCertificateHostNameMismatch" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SslCertificateHostNameMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The host name does not match the name on the certificate.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SslCertificateIsNotCA" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SslCertificateIsNotCA">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The certificate is not a certificate authority (CA).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SslConnectionError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SslConnectionError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SSL Connection error.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StreamAlreadyClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/StreamAlreadyClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The stream has already been closed</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StreamNoRead" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/StreamNoRead">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> The stream does not support reading</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StreamNoWrite" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/StreamNoWrite">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The stream does not support writing</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StringEmpty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/StringEmpty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>String can't be empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Timeout" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/Timeout">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeoutGettingConnection" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TimeoutGettingConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>error connecting: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceCloseConnection" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceCloseConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Connection Closed</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceErrorMoreThanMaxValueConnections" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceErrorMoreThanMaxValueConnections">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to trace.  There are more than Int32.MaxValue connections in use.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceFetchError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceFetchError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Error encountered during row fetch. Number = {1}, Message={2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceOpenConnection" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceOpenConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Connection Opened: connection string = '{1}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceOpenResultError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceOpenResultError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Error encountered attempting to open result: Number={1}, Message={2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceQueryDone" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceQueryDone">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Query Closed</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceQueryNormalized" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceQueryNormalized">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Query Normalized: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceQueryOpened" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceQueryOpened">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Query Opened: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceResult" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceResult">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Resultset Opened: field(s) = {1}, affected rows = {2}, inserted id = {3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceResultClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceResultClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Resultset Closed. Total rows={1}, skipped rows={2}, size (bytes)={3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceSetDatabase" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceSetDatabase">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Set Database: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceStatementClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceStatementClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Statement closed: statement id = {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceStatementExecuted" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceStatementExecuted">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Statement executed: statement id = {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceStatementPrepared" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceStatementPrepared">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Statement prepared: sql='{1}', statement id={2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningBadIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningBadIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: Query is using a bad index</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningFieldConversion" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningFieldConversion">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: The field '{2}' was converted to the following types: {3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningNoIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningNoIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: Query does not use an index</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningSkippedColumns" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningSkippedColumns">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: The following columns were not accessed: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningSkippedRows" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningSkippedRows">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: Skipped {2} rows. Consider a more focused query.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceWarning" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceWarning">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: MySql Warning: Level={1}, Code={2}, Message={3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeIsNotCommandInterceptor" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TypeIsNotCommandInterceptor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Type '{0}' is not derived from BaseCommandInterceptor</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeIsNotExceptionInterceptor" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TypeIsNotExceptionInterceptor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Type '{0}' is not derived from BaseExceptionInterceptor</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToConnectToHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToConnectToHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to connect to any of the specified MySQL hosts.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToCreateAuthPlugin" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToCreateAuthPlugin">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to create plugin for authentication method '{0}'. Please see inner exception for details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToDeriveParameters" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToDeriveParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to derive stored routine parameters.  The 'Parameters' information schema table is not available and access to the stored procedure body has been disabled.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToEnableQueryAnalysis" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToEnableQueryAnalysis">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to enable query analysis.  Be sure the MySql.Data.EMTrace assembly is properly located and registered.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToEnumerateUDF" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToEnumerateUDF">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An error occured attempting to enumerate the user-defined functions.  Do you have SELECT privileges on the mysql.func table?</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToExecuteSP" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToExecuteSP">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to execute stored procedure '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToParseFK" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToParseFK">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There was an error parsing the foreign key definition.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToReadRSAKey" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToReadRSAKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Error encountered reading the RSA public key.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToRetrieveParameters" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToRetrieveParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to retrieve stored procedure metadata for routine '{0}'.  Either grant  SELECT privilege to mysql.proc for this user or use "check parameters=false" with  your connection string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToStartSecondAsyncOp" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToStartSecondAsyncOp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to start a second async operation while one is running.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnixSocketsNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnixSocketsNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unix sockets are not supported on Windows</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownAuthenticationMethod" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnknownAuthenticationMethod">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unknown authentication method '{0}' was requested.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownConnectionProtocol" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnknownConnectionProtocol">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unknown connection protocol</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValueNotCorrectType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ValueNotCorrectType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value '{0}' is not of the correct type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValueNotSupportedForGuid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ValueNotSupportedForGuid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The requested column value could not be treated as or conveted to a Guid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WinAuthNotSupportOnPlatform" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/WinAuthNotSupportOnPlatform">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Windows authentication connections are not supported on {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WriteToStreamFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/WriteToStreamFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Writing to the stream failed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WrongParameterName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/WrongParameterName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' is not found but a parameter with the name '{1}' is found. Parameter names must include the leading parameter marker.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MySql.Data.ResourcesX">
+			<NamedResource name="AppdataNotDefined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/AppdataNotDefined">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Appdata path is not defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AuthenticationFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/AuthenticationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication failed using MYSQL41 and SHA256_MEMORY. Check the user name and password or try using a secure connection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClientIsClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ClientIsClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You can't get more sessions because Client is closed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClientOptionInvalidValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ClientOptionInvalidValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Client option '{0}' does not support value '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClientOptionNotValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ClientOptionNotValid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Client option '{0}' is not recognized as valid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CollectionTableDoesNotExist" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/CollectionTableDoesNotExist">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} '{1}' does not exist in schema '{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateUserDefinedAttribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/DuplicateUserDefinedAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Duplicate key '{0}' used in "connection-attributes".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EmptyKeyConnectionAttribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/EmptyKeyConnectionAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Key name in connection attribute cannot be an empty string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FeatureNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/FeatureNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This feature is currently not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FunctionalityNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/FunctionalityNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This functionality is only supported in MySQL {0} and higher.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCollationId" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidCollationId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Collation with id '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionAttributes" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionAttributes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value of "connection-attributes" must be either a boolean or a list of key-value pairs.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionData" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection Data is incorrect.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionString" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection string is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionStringAttribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionStringAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' is not a valid connection string attribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionTimeoutValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionTimeoutValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection timeout value must be a positive integer (including 0).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidDecimalFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidDecimalFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Decimal (BCD) format is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidFieldType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidFieldType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Field type with name '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidIndexType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidIndexType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Index type with name '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidJsonDocument" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidJsonDocument">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value provided is not a valid JSON document. {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidNameIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidNameIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} is not a valid column name in the row.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidRowIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidRowIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} is not a valid index for the row.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSession" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidSession">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Session state is not valid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidUriData" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidUriData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid Uri </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidUriQuery" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidUriQuery">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid uri query value</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidUserDefinedAttribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidUserDefinedAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Key names in "connection-attributes" cannot start with "_".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="JsonUriOrHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/JsonUriOrHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Json configuration must contain 'uri' or 'host' but not both.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/KeywordNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Keyword '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/KeywordNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Keyword not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MandatoryFieldNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/MandatoryFieldNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Field '{0}' is mandatory.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MoreThanOneDocumentId" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/MoreThanOneDocumentId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>More than one document id was generated.  Please use the DocumentIds property instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoDataAtIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoDataAtIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There is no data at index {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No 'host' has been specified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoMoreData" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoMoreData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No more data in resultset.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoObjectFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoObjectFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Object '{0}' not found</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoPlaceholders" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoPlaceholders">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No placeholders.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NumberNotGreaterThanZero" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NumberNotGreaterThanZero">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} must be a value greater than 0.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PathNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PathNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Path not found '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PoolingQueueTimeout" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PoolingQueueTimeout">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Queue timeout expired. The timeout period elapsed prior to getting a session from the pool.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PortNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PortNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Providing a port number as part of the host address isn't supported when using connection strings in basic format or anonymous objects. Use URI format instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PriorityForAllOrNoHosts" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PriorityForAllOrNoHosts">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You must either assign no priority to any of the hosts or give a priority for every host.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PriorityOutOfLimits" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PriorityOutOfLimits">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The priority must be between 0 and 100.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProgramDataNotDefined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ProgramDataNotDefined">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ProgramData path is not defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ThrowingAwayResults" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ThrowingAwayResults">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The process of closing the resultset and resulted in results being lost.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeOutMultipleHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/TimeOutMultipleHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>All server connection attempts were aborted. Timeout of {0} milliseconds was exceeded for each selected server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeOutMultipleHost0ms" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/TimeOutMultipleHost0ms">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>All server connection attempts were aborted. Timeout was exceeded for each selected server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeOutSingleHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/TimeOutSingleHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection attempt to the server was aborted. Timeout of {0} milliseconds was exceeded.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeOutSingleHost0ms" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/TimeOutSingleHost0ms">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection attempt to the server was aborted. Timeout was exceeded.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToConnect" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnableToConnect">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to connect to any specified host.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToDecodeDataValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnableToDecodeDataValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to read or decode data value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToOpenSession" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnableToOpenSession">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to open a session.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnexpectedEndOfPacketFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnexpectedEndOfPacketFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unexpected end of packet found while reading data values</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnexpectedField" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnexpectedField">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Field name '{0}' is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownPlaceholder" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnknownPlaceholder">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unknown placeholder :{0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValueNotCorrectType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ValueNotCorrectType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value '{0}' is not of the correct type.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

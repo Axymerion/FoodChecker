@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="5cf26aab-8990-4792-ae04-d0a4e1e01ec9" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>LIGHTUNPLATED,UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FoodChecker.xr.xml" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/FoodChecker.xr.xml">
+				<Candidate type="Path">
+					<Value>FoodChecker.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MySql.Data.Resources">
+			<NamedResource name="AdapterIsNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AdapterIsNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Improper MySqlCommandBuilder state: adapter is null</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AdapterSelectIsNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AdapterSelectIsNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Improper MySqlCommandBuilder state: adapter's SelectCommand is null</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AttemptToAccessBeforeRead" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AttemptToAccessBeforeRead">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to access a field before calling Read()</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AuthenticationFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AuthenticationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication to host '{0}' for user '{1}' using method '{2}' failed with message: {3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AuthenticationMethodNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/AuthenticationMethodNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication method '{0}' not supported by any of the available plugins.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadVersionFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/BadVersionFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Version string not in acceptable format</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BufferCannotBeNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/BufferCannotBeNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> The buffer cannot be null</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BufferNotLargeEnough" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/BufferNotLargeEnough">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> Buffer is not large enough</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CancelNeeds50" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CancelNeeds50">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Canceling an executing query requires MySQL 5.0 or higher.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CancelNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CancelNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Canceling an active query is only supported on MySQL 5.0.0 and above. </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CanNotDeriveParametersForTextCommands" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CanNotDeriveParametersForTextCommands">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameters can only be derived for commands using the StoredProcedure command type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CBMultiTableNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CBMultiTableNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>MySqlCommandBuilder does not support multi-table statements</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CBNoKeyColumn" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CBNoKeyColumn">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>MySqlCommandBuilder cannot operate on tables with no unique or key columns</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ChaosNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ChaosNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Chaos isolation level is not supported </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CommandTextNotInitialized" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CommandTextNotInitialized">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The CommandText property has not been properly initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CompressionNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CompressionNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Compression is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionAlreadyOpen" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionAlreadyOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection is already open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionBroken" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionBroken">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection unexpectedly terminated.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionMustBeOpen" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionMustBeOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection must be valid and open</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionNotOpen" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionNotOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection is not open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionNotSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ConnectionNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection property has not been set or is null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CouldNotFindColumnName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CouldNotFindColumnName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not find specified column in results: {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CountCannotBeNegative" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CountCannotBeNegative">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> Count cannot be negative</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CSNoSetLength" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/CSNoSetLength">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SetLength is not a valid operation on CompressedStream</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataNotInSupportedFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DataNotInSupportedFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The given value was not in a supported format.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataReaderOpen" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DataReaderOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There is already an open DataReader associated with this Connection which must be closed first.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefaultEncodingNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DefaultEncodingNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The default connection encoding was not found. Please report this as a bug along with your connection string and system details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DistributedTxnNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DistributedTxnNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>MySQL Connector/NET does not currently support distributed transactions.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicatedSslConnectionOption" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/DuplicatedSslConnectionOption">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SSL connection option '{0}' is duplicated.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EncodingError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/EncodingError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Encoding error during validation.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ErrorCreatingSocket" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ErrorCreatingSocket">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Error creating socket connection</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FatalErrorDuringExecute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FatalErrorDuringExecute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Fatal error encountered during command execution.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FatalErrorDuringRead" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FatalErrorDuringRead">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Fatal error encountered during data read.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FatalErrorReadingResult" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FatalErrorReadingResult">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Fatal error encountered attempting to read the resultset.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FileBasedCertificateNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FileBasedCertificateNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>File based certificates are only supported when connecting to MySQL Server 5.1 or greater.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FileIsNotACertificate" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FileIsNotACertificate">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified file cannot be converted to a certificate.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FileIsNotAKey" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FileIsNotAKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified file cannot be converted to a key.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FileNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FileNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to read file at the specified location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FilePathNotSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FilePathNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No file path has been provided for the connection option {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FromAndLengthTooBig" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FromAndLengthTooBig">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>From index and length use more bytes than from contains</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FromIndexMustBeValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/FromIndexMustBeValid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>From index must be a valid index inside the from buffer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GetHostEntryFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/GetHostEntryFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Call to GetHostEntry failed after {0} while querying for hostname '{1}': SocketErrorCode={2}, ErrorCode={3}, NativeErrorCode={4}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HardProcQuery" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/HardProcQuery">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Retrieving procedure metadata for {0} from server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ImproperValueFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ImproperValueFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value has an unsupported format.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IncorrectTransmission" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/IncorrectTransmission">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An incorrect response was received from the server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IndexAndLengthTooBig" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/IndexAndLengthTooBig">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Index and length use more bytes than to has room for</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IndexMustBeValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/IndexMustBeValid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Index must be a valid position in the buffer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCertificateKey" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidCertificateKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The provided key is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidColumnOrdinal" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidColumnOrdinal">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You have specified an invalid column ordinal.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionStringValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidConnectionStringValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The requested value '{0}' is invalid for the given keyword '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidHostNameOrAddress" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidHostNameOrAddress">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The host name or IP address is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidMicrosecondValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidMicrosecondValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Microsecond must be a value between 0 and 999999.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidMillisecondValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidMillisecondValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Millisecond must be a value between 0 and 999. For more precision use Microsecond.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOptionWhenSslDisabled" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidOptionWhenSslDisabled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No other SSL options are accepted when SSL Mode is set to None.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidProcName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidProcName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Procedure or function '{0}' cannot be found in database '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSslCertificate" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidSslCertificate">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The certificate is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSslCertificateSignature" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidSslCertificateSignature">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to validate the signature.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSslCertificateSignatureGeneral" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidSslCertificateSignatureGeneral">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to verify the signature.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSslMode" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidSslMode">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value '{0}' is not of the correct type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidValueForBoolean" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/InvalidValueForBoolean">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' is an illegal value for a boolean option.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNoNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/KeywordNoNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Keyword does not allow null values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/KeywordNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Option not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="keywords" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/keywords">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ACCESSIBLE
+ADD
+ALL
+ALTER
+ANALYZE
+AND
+AS
+ASC
+ASENSITIVE
+BEFORE
+BEGIN
+BETWEEN
+BIGINT
+BINARY
+BLOB
+BOTH
+BY
+CALL
+CASCADE
+CASE
+CHANGE
+CHAR
+CHARACTER
+CHECK
+COLLATE
+COLUMN
+COMMIT
+CONDITION
+CONNECTION
+CONSTRAINT
+CONTINUE
+CONVERT
+CREATE
+CROSS
+CURRENT_DATE
+CURRENT_TIME
+CURRENT_TIMESTAMP
+CURRENT_USER
+CURSOR
+DATABASE
+DATABASES
+DAY_HOUR
+DAY_MICROSECOND
+DAY_MINUTE
+DAY_SECOND
+DEC
+DECIMAL
+DECLARE
+DEFAULT
+DELAYED
+DELETE
+DESC
+DESCRIBE
+DETERMINISTIC
+DISTINCT
+DISTINCTROW
+DIV
+DO
+DOUBLE
+DROP
+DUAL
+EACH
+ELSE
+ELSEIF
+ENCLOSED
+END
+ESCAPED
+EXISTS
+EXIT
+EXPLAIN
+FALSE
+FETCH
+FLOAT
+FLOAT4
+FLOAT8
+FOR
+FORCE
+FOREIGN
+FROM
+FULLTEXT
+GOTO
+GRANT
+GROUP
+HAVING
+HIGH_PRIORITY
+HOUR_MICROSECOND
+HOUR_MINUTE
+HOUR_SECOND
+IF
+IGNORE
+IN
+INDEX
+INFILE
+INNER
+INOUT
+INSENSITIVE
+INSERT
+INT
+INT1
+INT2
+INT3
+INT4
+INT8
+INTEGER
+INTERVAL
+INTO
+IS
+ITERATE
+JOIN
+KEY
+KEYS
+KILL
+LABEL
+LEADING
+LEAVE
+LEFT
+LIKE
+LIMIT
+LINEAR
+LINES
+LOAD
+LOCALTIME
+LOCALTIMESTAMP
+LOCK
+LONG
+LONGBLOB
+LONGTEXT
+LOOP
+LOW_PRIORITY
+MASTER_SSL_VERIFY_SERVER_CERT
+MATCH
+MEDIUMBLOB
+MEDIUMINT
+MEDIUMTEXT
+MIDDLEINT
+MINUTE_MICROSECOND
+MINUTE_SECOND
+MOD
+MODIFIES
+NATURAL
+NOT
+NO_WRITE_TO_BINLOG
+NULL
+NUMERIC
+ON
+OPTIMIZE
+OPTION
+OPTIONALLY
+OR
+ORDER
+OUT
+OUTER
+OUTFILE
+PRECISION
+PRIMARY
+PROCEDURE
+PURGE
+RANGE
+READ
+READS
+READ_ONLY
+READ_WRITE
+REAL
+REFERENCES
+REGEXP
+RELEASE
+RENAME
+REPEAT
+REPLACE
+REQUIRE
+RESTRICT
+RETURN
+REVOKE
+RIGHT
+RLIKE
+ROLLBACK
+SCHEMA
+SCHEMAS
+SECOND_MICROSECOND
+SELECT
+SENSITIVE
+SEPARATOR
+SET
+SHOW
+SHUTDOWN
+SMALLINT
+SPATIAL
+SPECIFIC
+SQL
+SQLEXCEPTION
+SQLSTATE
+SQLWARNING
+SQL_BIG_RESULT
+SQL_CALC_FOUND_ROWS
+SQL_SMALL_RESULT
+SSL
+STARTING
+STRAIGHT_JOIN
+TABLE
+TERMINATED
+THEN
+TINYBLOB
+TINYINT
+TINYTEXT
+TO
+TRAILING
+TRIGGER
+TRUE
+UNDO
+UNION
+UNIQUE
+UNLOCK
+UNSIGNED
+UPDATE
+UPGRADE
+USAGE
+USE
+USING
+UTC_DATE
+UTC_TIME
+UTC_TIMESTAMP
+VALUE
+VALUES
+VARBINARY
+VARCHAR
+VARCHARACTER
+VARYING
+WHEN
+WHERE
+WHILE
+WITH
+WRITE
+XOR
+YEAR_MONTH
+ZEROFILL</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LocalInfileDisabled" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/LocalInfileDisabled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Server asked for stream in response to LOAD DATA LOCAL INFILE, but the functionality is disabled by the client setting 'allowlocalinfile' to 'false'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MixedParameterNamingNotAllowed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/MixedParameterNamingNotAllowed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Mixing named and unnamed parameters is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MoreThanOneOPRow" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/MoreThanOneOPRow">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>INTERNAL ERROR:  More than one output parameter row detected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleConnectionsInTransactionNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/MultipleConnectionsInTransactionNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Multiple simultaneous connections or connections with different connection strings inside the same transaction are not currently supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NamedPipeNoSeek" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NamedPipeNoSeek">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>NamedPipeStream does not support seeking</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NamedPipeNoSetLength" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NamedPipeNoSetLength">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>NamedPipeStream doesn't support SetLength</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NewValueShouldBeMySqlParameter" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NewValueShouldBeMySqlParameter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The new value must be a MySqlParameter object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NextResultIsClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NextResultIsClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to call NextResult when the reader is closed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoBodiesAndTypeNotSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoBodiesAndTypeNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>When calling stored procedures and 'Use Procedure Bodies' is false, all parameters must have their type explicitly set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoNestedTransactions" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoNestedTransactions">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Nested transactions are not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoServerSSLSupport" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoServerSSLSupport">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The host {0} does not support SSL connections.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoUnixSocketsOnWindows" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoUnixSocketsOnWindows">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unix sockets are not supported on Windows.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoWindowsIdentity" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/NoWindowsIdentity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot retrieve Windows identity for current user. Connections that use  IntegratedSecurity cannot be  pooled. Use either 'ConnectionReset=true' or  'Pooling=false' in the connection string to fix.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObjectDisposed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ObjectDisposed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The object is not open or has been disposed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OffsetCannotBeNegative" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/OffsetCannotBeNegative">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> Offset cannot be negative</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OffsetMustBeValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/OffsetMustBeValid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Offset must be a valid position in buffer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OldPasswordsNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/OldPasswordsNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication with old password no longer supported, use 4.1 style passwords.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OptionNotCurrentlySupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/OptionNotCurrentlySupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The option '{0}' is not currently supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterAlreadyDefined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterAlreadyDefined">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' has already been defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterCannotBeNegative" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterCannotBeNegative">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter cannot have a negative value</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterCannotBeNull" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterCannotBeNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter cannot be null</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterCannotBeNullOrEmpty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterCannotBeNullOrEmpty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' can't be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterIndexNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterIndexNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter index was not found in Parameter Collection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterIsInvalid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterIsInvalid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterMustBeDefined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterMustBeDefined">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' must be defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterNotFoundDuringPrepare" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterNotFoundDuringPrepare">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' was not found during prepare.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ParameterNullOrEmpty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter can't be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PasswordMustHaveLegalChars" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PasswordMustHaveLegalChars">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Password must be valid and contain length characters</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonCategoryHelp" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonCategoryHelp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This category includes a series of counters for MySQL</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonCategoryName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonCategoryName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>.NET Data Provider for MySQL</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonHardProcHelp" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonHardProcHelp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The number of times a procedures metadata had to be queried from the server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonHardProcName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonHardProcName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Hard Procedure Queries</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonSoftProcHelp" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonSoftProcHelp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The number of times a procedures metadata was retrieved from the client-side cache.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PerfMonSoftProcName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/PerfMonSoftProcName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Soft Procedure Queries</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProcAndFuncSameName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ProcAndFuncSameName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>same name are not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="QueryTooLarge" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/QueryTooLarge">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Packets larger than max_allowed_packet are not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReadFromStreamFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReadFromStreamFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Reading from the stream has failed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReadingPriorColumnUsingSeqAccess" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReadingPriorColumnUsingSeqAccess">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to read a prior column using SequentialAccess</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReplicatedConnectionsAllowOnlyReadonlyStatements" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReplicatedConnectionsAllowOnlyReadonlyStatements">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Replicated connections allow only readonly statements.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReplicationGroupNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReplicationGroupNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Replication group '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReplicationServerNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ReplicationServerNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Replicated server not found: '{0}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Replication_ConnectionAttemptFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/Replication_ConnectionAttemptFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Attempt to connect to '{0}' server failed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Replication_NoAvailableServer" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/Replication_NoAvailableServer">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No available server found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RoutineNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/RoutineNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Routine '{0}' cannot be found. Either check the spelling or make sure you have sufficient rights to execute the routine.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RoutineRequiresReturnParameter" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/RoutineRequiresReturnParameter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Attempt to call stored function '{0}' without specifying a return parameter</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RSAPublicKeyRetrievalNotEnabled" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/RSAPublicKeyRetrievalNotEnabled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Retrieval of the RSA public key is not enabled for insecure connections.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ServerTooOld" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ServerTooOld">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connector/NET no longer supports server versions prior to 5.0</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SnapshotNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SnapshotNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Snapshot isolation level is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SocketNoSeek" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SocketNoSeek">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Socket streams do not support seeking</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SoftProcQuery" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SoftProcQuery">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Retrieving procedure metadata for {0} from procedure cache.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SPNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SPNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Stored procedures are not supported on this version of MySQL</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SshAuthenticationModeNotSet" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SshAuthenticationModeNotSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The SSH Key File and/or SSH Password must be provided.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SshInvalidPassphrase" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SshInvalidPassphrase">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The provided passphrase is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SslCertificateCAMismatch" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SslCertificateCAMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The certificate authority (CA) does not match.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SslCertificateHostNameMismatch" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SslCertificateHostNameMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The host name does not match the name on the certificate.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SslCertificateIsNotCA" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SslCertificateIsNotCA">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The certificate is not a certificate authority (CA).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SslConnectionError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/SslConnectionError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SSL Connection error.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StreamAlreadyClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/StreamAlreadyClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The stream has already been closed</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StreamNoRead" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/StreamNoRead">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> The stream does not support reading</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StreamNoWrite" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/StreamNoWrite">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The stream does not support writing</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StringEmpty" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/StringEmpty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>String can't be empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Timeout" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/Timeout">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeoutGettingConnection" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TimeoutGettingConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>error connecting: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceCloseConnection" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceCloseConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Connection Closed</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceErrorMoreThanMaxValueConnections" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceErrorMoreThanMaxValueConnections">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to trace.  There are more than Int32.MaxValue connections in use.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceFetchError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceFetchError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Error encountered during row fetch. Number = {1}, Message={2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceOpenConnection" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceOpenConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Connection Opened: connection string = '{1}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceOpenResultError" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceOpenResultError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Error encountered attempting to open result: Number={1}, Message={2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceQueryDone" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceQueryDone">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Query Closed</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceQueryNormalized" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceQueryNormalized">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Query Normalized: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceQueryOpened" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceQueryOpened">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Query Opened: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceResult" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceResult">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Resultset Opened: field(s) = {1}, affected rows = {2}, inserted id = {3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceResultClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceResultClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Resultset Closed. Total rows={1}, skipped rows={2}, size (bytes)={3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceSetDatabase" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceSetDatabase">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Set Database: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceStatementClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceStatementClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Statement closed: statement id = {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceStatementExecuted" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceStatementExecuted">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Statement executed: statement id = {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceStatementPrepared" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceStatementPrepared">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Statement prepared: sql='{1}', statement id={2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningBadIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningBadIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: Query is using a bad index</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningFieldConversion" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningFieldConversion">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: The field '{2}' was converted to the following types: {3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningNoIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningNoIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: Query does not use an index</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningSkippedColumns" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningSkippedColumns">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: The following columns were not accessed: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceUAWarningSkippedRows" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceUAWarningSkippedRows">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: Usage Advisor Warning: Skipped {2} rows. Consider a more focused query.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TraceWarning" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TraceWarning">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0}: MySql Warning: Level={1}, Code={2}, Message={3}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeIsNotCommandInterceptor" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TypeIsNotCommandInterceptor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Type '{0}' is not derived from BaseCommandInterceptor</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeIsNotExceptionInterceptor" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/TypeIsNotExceptionInterceptor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Type '{0}' is not derived from BaseExceptionInterceptor</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToConnectToHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToConnectToHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to connect to any of the specified MySQL hosts.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToCreateAuthPlugin" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToCreateAuthPlugin">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to create plugin for authentication method '{0}'. Please see inner exception for details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToDeriveParameters" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToDeriveParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to derive stored routine parameters.  The 'Parameters' information schema table is not available and access to the stored procedure body has been disabled.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToEnableQueryAnalysis" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToEnableQueryAnalysis">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to enable query analysis.  Be sure the MySql.Data.EMTrace assembly is properly located and registered.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToEnumerateUDF" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToEnumerateUDF">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An error occured attempting to enumerate the user-defined functions.  Do you have SELECT privileges on the mysql.func table?</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToExecuteSP" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToExecuteSP">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to execute stored procedure '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToParseFK" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToParseFK">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There was an error parsing the foreign key definition.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToReadRSAKey" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToReadRSAKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Error encountered reading the RSA public key.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToRetrieveParameters" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToRetrieveParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to retrieve stored procedure metadata for routine '{0}'.  Either grant  SELECT privilege to mysql.proc for this user or use "check parameters=false" with  your connection string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToStartSecondAsyncOp" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnableToStartSecondAsyncOp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to start a second async operation while one is running.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnixSocketsNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnixSocketsNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unix sockets are not supported on Windows</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownAuthenticationMethod" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnknownAuthenticationMethod">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unknown authentication method '{0}' was requested.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownConnectionProtocol" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/UnknownConnectionProtocol">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unknown connection protocol</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValueNotCorrectType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ValueNotCorrectType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value '{0}' is not of the correct type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValueNotSupportedForGuid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/ValueNotSupportedForGuid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The requested column value could not be treated as or conveted to a Guid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WinAuthNotSupportOnPlatform" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/WinAuthNotSupportOnPlatform">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Windows authentication connections are not supported on {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WriteToStreamFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/WriteToStreamFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Writing to the stream failed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WrongParameterName" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.Resources/WrongParameterName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Parameter '{0}' is not found but a parameter with the name '{1}' is found. Parameter names must include the leading parameter marker.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MySql.Data.ResourcesX">
+			<NamedResource name="AppdataNotDefined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/AppdataNotDefined">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Appdata path is not defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AuthenticationFailed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/AuthenticationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication failed using MYSQL41 and SHA256_MEMORY. Check the user name and password or try using a secure connection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClientIsClosed" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ClientIsClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You can't get more sessions because Client is closed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClientOptionInvalidValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ClientOptionInvalidValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Client option '{0}' does not support value '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClientOptionNotValid" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ClientOptionNotValid">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Client option '{0}' is not recognized as valid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CollectionTableDoesNotExist" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/CollectionTableDoesNotExist">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} '{1}' does not exist in schema '{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateUserDefinedAttribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/DuplicateUserDefinedAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Duplicate key '{0}' used in "connection-attributes".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EmptyKeyConnectionAttribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/EmptyKeyConnectionAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Key name in connection attribute cannot be an empty string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FeatureNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/FeatureNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This feature is currently not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FunctionalityNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/FunctionalityNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This functionality is only supported in MySQL {0} and higher.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCollationId" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidCollationId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Collation with id '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionAttributes" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionAttributes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value of "connection-attributes" must be either a boolean or a list of key-value pairs.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionData" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection Data is incorrect.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionString" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection string is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionStringAttribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionStringAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' is not a valid connection string attribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidConnectionTimeoutValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidConnectionTimeoutValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection timeout value must be a positive integer (including 0).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidDecimalFormat" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidDecimalFormat">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Decimal (BCD) format is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidFieldType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidFieldType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Field type with name '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidIndexType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidIndexType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Index type with name '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidJsonDocument" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidJsonDocument">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value provided is not a valid JSON document. {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidNameIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidNameIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} is not a valid column name in the row.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidRowIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidRowIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} is not a valid index for the row.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSession" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidSession">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Session state is not valid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidUriData" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidUriData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid Uri </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidUriQuery" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidUriQuery">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid uri query value</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidUserDefinedAttribute" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/InvalidUserDefinedAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Key names in "connection-attributes" cannot start with "_".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="JsonUriOrHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/JsonUriOrHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Json configuration must contain 'uri' or 'host' but not both.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/KeywordNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Keyword '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/KeywordNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Keyword not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MandatoryFieldNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/MandatoryFieldNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Field '{0}' is mandatory.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MoreThanOneDocumentId" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/MoreThanOneDocumentId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>More than one document id was generated.  Please use the DocumentIds property instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoDataAtIndex" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoDataAtIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There is no data at index {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No 'host' has been specified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoMoreData" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoMoreData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No more data in resultset.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoObjectFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoObjectFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Object '{0}' not found</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoPlaceholders" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NoPlaceholders">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No placeholders.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NumberNotGreaterThanZero" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/NumberNotGreaterThanZero">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} must be a value greater than 0.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PathNotFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PathNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Path not found '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PoolingQueueTimeout" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PoolingQueueTimeout">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Queue timeout expired. The timeout period elapsed prior to getting a session from the pool.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PortNotSupported" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PortNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Providing a port number as part of the host address isn't supported when using connection strings in basic format or anonymous objects. Use URI format instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PriorityForAllOrNoHosts" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PriorityForAllOrNoHosts">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You must either assign no priority to any of the hosts or give a priority for every host.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PriorityOutOfLimits" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/PriorityOutOfLimits">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The priority must be between 0 and 100.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProgramDataNotDefined" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ProgramDataNotDefined">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ProgramData path is not defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ThrowingAwayResults" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ThrowingAwayResults">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The process of closing the resultset and resulted in results being lost.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeOutMultipleHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/TimeOutMultipleHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>All server connection attempts were aborted. Timeout of {0} milliseconds was exceeded for each selected server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeOutMultipleHost0ms" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/TimeOutMultipleHost0ms">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>All server connection attempts were aborted. Timeout was exceeded for each selected server.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeOutSingleHost" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/TimeOutSingleHost">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection attempt to the server was aborted. Timeout of {0} milliseconds was exceeded.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TimeOutSingleHost0ms" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/TimeOutSingleHost0ms">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection attempt to the server was aborted. Timeout was exceeded.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToConnect" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnableToConnect">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to connect to any specified host.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToDecodeDataValue" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnableToDecodeDataValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to read or decode data value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToOpenSession" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnableToOpenSession">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to open a session.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnexpectedEndOfPacketFound" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnexpectedEndOfPacketFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unexpected end of packet found while reading data values</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnexpectedField" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnexpectedField">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Field name '{0}' is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownPlaceholder" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/UnknownPlaceholder">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unknown placeholder :{0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValueNotCorrectType" uri="ms-resource://5cf26aab-8990-4792-ae04-d0a4e1e01ec9/MySql.Data.ResourcesX/ValueNotCorrectType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value '{0}' is not of the correct type.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,6 @@
+MainPackage=D:\Documents\Hackathon\FoodChecker\bin\ARM\Debug\FoodChecker_1.0.4.0_ARM_Debug.msix
+SymbolPackage=D:\Documents\Hackathon\FoodChecker\obj\ARM\Debug\Symbols\FoodChecker_1.0.4.0_ARM_Debug.appxsym
+ResourcePack=D:\Documents\Hackathon\FoodChecker\bin\ARM\Debug\FoodChecker_1.0.4.0_scale-100.msix
+ResourcePack=D:\Documents\Hackathon\FoodChecker\bin\ARM\Debug\FoodChecker_1.0.4.0_scale-125.msix
+ResourcePack=D:\Documents\Hackathon\FoodChecker\bin\ARM\Debug\FoodChecker_1.0.4.0_scale-150.msix
+ResourcePack=D:\Documents\Hackathon\FoodChecker\bin\ARM\Debug\FoodChecker_1.0.4.0_scale-400.msix

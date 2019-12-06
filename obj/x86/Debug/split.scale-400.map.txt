@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"D:\Documents\Hackathon\FoodChecker\obj\x86\Debug\split.scale-400.pri"			"resources.pri"
+"D:\Documents\Hackathon\FoodChecker\obj\x86\Debug\PackageLayout\Assets\Square44x44Logo.scale-400.png"			"Assets\Square44x44Logo.scale-400.png"
+"D:\Documents\Hackathon\FoodChecker\obj\x86\Debug\PackageLayout\Assets\SplashScreen.scale-400.png"			"Assets\SplashScreen.scale-400.png"

@@ -1,0 +1,12 @@
+﻿"D:\Documents\Hackathon\FoodChecker\obj\x86\Release\ilc\in\BouncyCastle.Crypto.dll"
+"D:\Documents\Hackathon\FoodChecker\obj\x86\Release\ilc\in\FoodChecker.exe"
+"D:\Documents\Hackathon\FoodChecker\obj\x86\Release\ilc\in\Google.Protobuf.dll"
+"D:\Documents\Hackathon\FoodChecker\obj\x86\Release\ilc\in\MySql.Data.dll"
+"D:\Documents\Hackathon\FoodChecker\obj\x86\Release\ilc\in\Renci.SshNet.dll"
+"D:\Documents\Hackathon\FoodChecker\obj\x86\Release\ilc\in\SshNet.Security.Cryptography.dll"
+/Lib:"D:\Documents\Hackathon\FoodChecker\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.7-rel-27913-00\tools\x86\ilc\lib\Private"
+/WinMD:"D:\Documents\Hackathon\FoodChecker\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"c4d088a2-f445-47ab-9ff8-c1030e19edab","Id":"1232d907-899d-4295-9b4b-1ea54916a557","ProcessStartTime":637106131757350146}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.7-rel-27913-00\tools\LibraryXML"
+/RunOnlyPreDR

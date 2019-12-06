@@ -1,0 +1,2 @@
+MainPackage=D:\Documents\Hackathon\FoodChecker\bin\x64\Debug\FoodChecker_1.0.9.0_x64_Debug.msix
+SymbolPackage=D:\Documents\Hackathon\FoodChecker\obj\x64\Debug\Symbols\FoodChecker_1.0.9.0_x64_Debug.appxsym
